@@ -1,4 +1,4 @@
-# Netflix Data Analysis Using SQL
+# Netflix Data Analysis
 
 ![Project Logo](logo.png)
 
